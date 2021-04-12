@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products><product><id>1</id><sku>t00001</sku><name>Google Pixel 3 XL </name><price>16500.00</price><qty>120.000</qty><description>Диагональ экрана: 6.3"; Разрешение экрана: 2960x1440; Камера: 12.2 Мп; Количество ядер: 8; Оперативная память: 4 Гб; Стандарт защиты: IP68;</description></product><product><id>4</id><sku>t00003</sku><name>Samsung Galaxy S10e</name><price>18000.00</price><qty>100.000</qty><description>            Диагональ экрана: 5.8"; Разрешение экрана: 2280x1080; Камера: 12 Мп + 16 Мп; Количество ядер: 8; Оперативная память: 6 Гб; Стандарт защиты: IP68;            </description></product><product><id>13</id><sku>t00002</sku><name>Apple iPhone 11 Pro Max</name><price>36000.00</price><qty>1000.000</qty><description>Диагональ экрана: 6.5";&#13;
+Разрешение экрана: 2688х1242; &#13;
+Камера: 12 Мп + 12 Мп + 12 Мп; &#13;
+Количество ядер: 6; &#13;
+Оперативная память: 4 Гб;&#13;
+Стандарт защиты: IP68;                                                               </description></product><product><id>14</id><sku>t00004</sku><name>Apple iPhone 11 64GB Red</name><price>23000.00</price><qty>1000.000</qty><description>             Диагональ экрана: 6.1"; Разрешение экрана: 1792x828; Камера: 12 Мп + 12 Мп; Количество ядер: 6; Оперативная память: 4 Гб; Стандарт защиты: IP68;&#13;
+                           </description></product></products>
